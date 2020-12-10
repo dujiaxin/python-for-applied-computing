@@ -50,7 +50,7 @@ your previous experience with Python.
 
 ## Chapters
 
-| \#  | Topic | View Online | Run Online | Work Offline |
+| \#  | Topic | Static View | Run on Colab | Download Version |
 | --- | ----- | ----------- | ---------- | ------------ |
 | 01  | Intro - coming soon | | | |
 | 02  | Basic Python - Variables & Operators | [View Online](notebooks/basic-python-variables-and-operators.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/basic-python-variables-and-operators.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/basic-python-variables-and-operators.ipynb) |
