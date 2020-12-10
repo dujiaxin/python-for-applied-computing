@@ -16,37 +16,50 @@ Rather than a traditional textbook, it is meant to be interactive.
 To allow this, each "chapter" is a jupyter notebook.  There
 are a few different ways you can use this "book".
 
-### View Online
+### Static View Online
 All of the notebooks are viewable directly online
-in static form (cannot run and cannot modify). 
+in static form (cannot run and cannot modify).  Note,
+this probably isn't as helpful as running interactively for learning
+python, but can be helpful if you just need to consult something quick.
 
-While it displays in
-a formatted way automatically on Github, to actually run the code
-you'll need to either:
-
-* Run on Google's Colab by clicking "Run Online" button that
-  appears next to (and at the start) of each notebook.
-    * This runs on remote servers -- no need to install anything.
-    * You can run cells, modify code, and add new cells
-    * To save your changes, you have 2 options:
-        * save a copy to your Google Drive "File" -> "Save a copy in drive"
-        * save a copy to your Github "File" -> "Save a copy in github"
-          (though if you use github you 
-    * Note: Colab uses a modified version of jupyter notebooks.
+### Run Online with Google Colab
+This will open up the notebook on Google's Colab.  Google Colab is
+a free service that allows you to run jupyter notebooks online.
+* There is no need to install anything
+* You can run cells, modify code, and add new cells
+* To save your changes you have 2 options:
+    * save a copy to your Google Drive "File" -> "Save a copy in drive"
+    * save a copy to your Github "File" -> "Save a copy in github"
+* Notes:
+    * Colab uses a modified version of jupyter notebooks.
       All of the necessary functionality is there, but some
       of the options occur in slightly different locations.
-* Download the .ipynb(s) and run the jupyter notebooks on your
-  local machine.  To do this, you will need to install python3 and
-  jupyter.  There are many ways to install python, but
-  [Anaconda Python](https://www.anaconda.com/products/individual)
-  is often one of the easiest prepackaged python distributions to
-  install that works on Windows, Mac, and Linux.
-* Run the Jupyter notebooks with a different remote service
-  such as [Deepnote](https://deepnote.com/) or [CoCalc](https://cocalc.com/app).
+    * Because this only copies the notebook (not related data files)
+      you may see minor changes in the code (namely the use of `!wget url`
+      to grab the datasets as well).
 
+### Download Notebooks and Work Offline
+To download the notebooks, right click the links the links in the "Download Version"
+column and select "save link as" (or the equivalent in your browser). 
+To run the notebooks on your local machine, you will need to install
+python3 and jupyter.  There are many ways to install python, but
+[Anaconda Python](https://www.anaconda.com/products/individual)
+is often one of the easiest prepackaged python distributions to
+install that works on Windows, Mac, and Linux.
+
+Alternatively, you can download the notebooks and upload them to
+any other online server that runs jupyter notebooks such as CoCalc
+or Deepnote.
+
+## Order
 This "textbook" is meant to be worked with in the order listed below,
 but you should feel free to jump around or skip sections based on
 your previous experience with Python.
+
+If you have no previous experience with Python, it is recommended
+that you work up through section 10 in order.  After that, chapters
+11 through 15 can be rearranged (with the exception that chapter 13 depends
+on chapter 12).
 
 ## Chapters
 
