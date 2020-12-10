@@ -13,11 +13,18 @@ and mathematics.
 ## How to use it?
 
 Rather than a traditional textbook, it is meant to be interactive.
-To allow this, each "chapter" is a jupyter notebook.  While it displays in
+To allow this, each "chapter" is a jupyter notebook.  There
+are a few different ways you can use this "book".
+
+### View Online
+All of the notebooks are viewable directly online
+in static form (cannot run and cannot modify). 
+
+While it displays in
 a formatted way automatically on Github, to actually run the code
 you'll need to either:
 
-* Run on Google's Colab by clicking the "Open on Colab" button that
+* Run on Google's Colab by clicking "Run Online" button that
   appears next to (and at the start) of each notebook.
     * This runs on remote servers -- no need to install anything.
     * You can run cells, modify code, and add new cells
@@ -43,22 +50,26 @@ your previous experience with Python.
 
 ## Chapters
 
-1. Intro - coming soon 
-2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/basic-python-variables-and-operators.ipynb) [Basic Python - Variables & Operators](notebooks/basic-python-variables-and-operators.ipynb)
-3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/notebooks-and-comments.ipynb) [Using Jupyter Notebooks](notebooks/notebooks-and-comments.ipynb) 
-4.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/functions.ipynb) [Functions](notebooks/functions.ipynb)
-5. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/math-module.ipynb) [Math Module](notebooks/math-module.ipynb) 
-6.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/conditionals.ipynb) [Conditionals](notebooks/conditionals.ipynb)
-7. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/loops.ipynb) [Loops](notebooks/loops.ipynb) 
-8. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/random-module.ipynb) [Random Module](notebooks/random-module.ipynb) 
-9. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/lists.ipynb) [Lists](notebooks/lists.ipynb) 
-10. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/strings.ipynb) [Strings](notebooks/strings.ipynb) 
-11. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/files.ipynb) [Files](notebooks/files.ipynb) 
-12. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/tuples.ipynb) [Tuples](notebooks/tuples.ipynb) 
-13. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/dictionaries.ipynb) [Dictionaries](notebooks/dictionaries.ipynb) 
-14.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/matplotlib.ipynb) [Plotting with Matplotlib](notebooks/matplotlib.ipynb)
-15. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/numpy-intro.ipynb) [Numpy](notebooks/numpy-intro.ipynb) 
-    * in progress -- not yet finished 
+| \#  | Topic | View Online | Run Online | Work Offline |
+| --- | ----- | ----------- | ---------- | ------------ |
+| 01  | Intro - coming soon | | | |
+
+| 02  | Basic Python - Variables & Operators | [View Online](notebooks/basic-python-variables-and-operators.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/basic-python-variables-and-operators.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/basic-python-variables-and-operators.ipynb) |
+| 03  | Using Jupyter Notebooks | [View Online](notebooks/notebooks-and-comments.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/notebooks-and-comments.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/notebooks-and-comments.ipynb) |
+| 04  | Functions | [View Online]((notebooks/functions.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/functions.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/functions.ipynb) |
+| 05  | Math Module | [View Online](notebooks/math-module.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/math-module.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/math-module.ipynb) |
+| 06  | Conditionals | [View Online](notebooks/conditionals.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/conditionals.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/conditionals.ipynb) |
+| 07  | Loops | [View Online](notebooks/loops.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/loops.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/loops.ipynb) |
+| 08  | Random Module | [View Online](notebooks/random-module.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/random-module.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/random-module.ipynb) |
+| 09  | Lists | [View Online](notebooks/lists.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/lists.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/lists.ipynb) |
+| 10  | Strings| [View Online](notebooks/strings.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/strings.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/strings.ipynb) |
+| 11  | Files | [View Online](notebooks/files.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/files.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/files.ipynb) |
+| 12  | Tuples | [View Online](notebooks/tuples.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/tuples.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/tuples.ipynb) |
+| 13  | Dictionaries | [View Online](notebooks/dictionaries.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/dictionaries.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/dictionaries.ipynb) |
+| 14  | Plotting with Matplotlib | [View Online](notebooks/matplotlib.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/matplotlib.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/matplotlib.ipynb) |
+| 15  | Numpy | [View Online](notebooks/numpy-intro.ipynb) | [Run Online](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/numpy-intro.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/numpy-intro.ipynb) |
+
+
 
 ## License Info
 Dataset licensing:
