@@ -39,7 +39,11 @@ a free service that allows you to run jupyter notebooks online.
       to grab the datasets as well).
 
 ### Download Notebooks and Work Offline
-To download the notebooks, right click the links the links in the "Download Version"
+To download all of the notebooks, click the green "Code" button and either
+clone it (if you are familiar with git) or click the "Download zip" option
+to get a zip file of everything.
+
+To download an individual notebook, right click the links the links in the "Download Version"
 column and select "save link as" (or the equivalent in your browser). 
 To run the notebooks on your local machine, you will need to install
 python3 and jupyter.  There are many ways to install python, but
@@ -47,9 +51,6 @@ python3 and jupyter.  There are many ways to install python, but
 is often one of the easiest prepackaged python distributions to
 install that works on Windows, Mac, and Linux.
 
-Alternatively, you can download the notebooks and upload them to
-any other online server that runs jupyter notebooks such as CoCalc
-or Deepnote.
 
 ## Order
 This "textbook" is meant to be worked with in the order listed below,
