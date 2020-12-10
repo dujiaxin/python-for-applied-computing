@@ -66,4 +66,4 @@ Dataset licensing:
 * `robert-frost.csv` is the full text of "Stopping by Woods on a Snowy Evening" by Robert Frost.
   As of Jan. 1, 2019 it is out of copyright and in the public domain
 
-The remainder of the work is not currently explicitly licensed - all rights reserved.  Less restrictive license info coming soon.
+The remainder of the work is licensed under CC-BY-NC-SA.  See [full license text](license.md).
