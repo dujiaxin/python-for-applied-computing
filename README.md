@@ -89,5 +89,6 @@ Dataset licensing:
 * `groundhog.csv` is CCO per the [Kaggle page it was obtained from](https://www.kaggle.com/groundhogclub/groundhog-day)
 * `robert-frost.csv` is the full text of "Stopping by Woods on a Snowy Evening" by Robert Frost.
   As of Jan. 1, 2019 it is out of copyright and in the public domain
+* `diabetes.csv` is CC0 per the [Kaggle page it was obtained from](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 The remainder of the work is licensed under CC-BY-NC-SA.  See [full license text](license.md).
