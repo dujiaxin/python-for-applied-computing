@@ -22,7 +22,8 @@ in static form (cannot run and cannot modify).  Note,
 this probably isn't as helpful as running interactively for learning
 python, but can be helpful if you just need to consult something quick.
 
-### Run Online with Google Colab (or myBinder)
+### Run Online
+#### Option 1 - Google Colab (preferred) ![Open in Colab]((https://colab.research.google.com/assets/colab-badge.svg)
 This will open up the notebook on Google's Colab.  Google Colab is
 a free service that allows you to run jupyter notebooks online.
 * There is no need to install anything
@@ -37,6 +38,11 @@ a free service that allows you to run jupyter notebooks online.
     * Because this only copies the notebook (not related data files)
       you may see minor changes in the code (namely the use of `!wget url`
       to grab the datasets as well).
+
+#### Option 2 - myBinder ![Launch in Binder](https://mybinder.org/badge_logo.svg)
+This will open up the notebook in myBinder, a free service that allows you to run
+jupyter notebooks online.  However, unlike Google Colab, the notebooks
+are static (meaning you can run them, but cannot make and save changes.
 
 ### Download Notebooks and Work Offline
 To download all of the notebooks, click the green "Code" button and either
@@ -67,7 +73,7 @@ on chapter 12).
 | \#  | Topic | Static View | Run Online | Download Version |
 | --- | ----- | ----------- | ---------- | ------------ |
 | 01  | Intro - coming soon | | | |
-| 02  | Basic Python - Variables & Operators | [View Online](notebooks/with-output/basic-python-variables-and-operators.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/basic-python-variables-and-operators.ipynb) <br> [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eecarrier/python-for-applied-computing/HEAD?labpath=notebooks%2Fbasic-python-variables-and-operators.ipynb)) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/basic-python-variables-and-operators.ipynb) |
+| 02  | Basic Python - Variables & Operators | [View Online](notebooks/with-output/basic-python-variables-and-operators.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/basic-python-variables-and-operators.ipynb) <br> [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eecarrier/python-for-applied-computing/HEAD?labpath=notebooks%2Fbasic-python-variables-and-operators.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/basic-python-variables-and-operators.ipynb) |
 | 03  | Using Jupyter Notebooks | [View Online](notebooks/with-output/notebooks-and-comments.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/notebooks-and-comments.ipynb) <br> [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eecarrier/python-for-applied-computing/HEAD?labpath=notebooks%2Fnotebooks-and-comments.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/notebooks-and-comments.ipynb) |
 | 04  | Functions | [View Online](notebooks/with-output/functions.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/functions.ipynb) <br> [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eecarrier/python-for-applied-computing/HEAD?labpath=notebooks%2Ffunctions.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/functions.ipynb) |
 | 05  | Math Module | [View Online](notebooks/with-output/math-module.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eecarrier/python-for-applied-computing/blob/main/notebooks/math-module.ipynb) <br> [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eecarrier/python-for-applied-computing/HEAD?labpath=notebooks%2Fmath-module.ipynb) | [Work Offline](https://raw.githubusercontent.com/eecarrier/python-for-applied-computing/main/notebooks/math-module.ipynb) |
