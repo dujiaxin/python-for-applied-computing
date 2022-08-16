@@ -23,7 +23,7 @@ this probably isn't as helpful as running interactively for learning
 python, but can be helpful if you just need to consult something quick.
 
 ### Run Online
-#### Option 1 - Google Colab (preferred) ![Open in Colab]((https://colab.research.google.com/assets/colab-badge.svg)
+#### Option 1 - Google Colab (preferred) ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
 This will open up the notebook on Google's Colab.  Google Colab is
 a free service that allows you to run jupyter notebooks online.
 * There is no need to install anything
